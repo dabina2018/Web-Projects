@@ -4,4 +4,3 @@
 
 <p>While living in Japan, i made friends with the daughter of a local dojo owner. We became good friends and I even took on some of here pupils as English students. I made a small site for here to promote the dojo and tournaments that the students were participating in. Check it out <a href="https://shokenjukusagamiharadojo.wordpress.com/">here</a>.</p>
 
-https://shokenjukusagamiharadojo.wordpress.com/
